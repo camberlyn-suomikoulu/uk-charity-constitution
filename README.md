@@ -1,4 +1,4 @@
-# Model constitution for unincorporated UK charities that are member associations.
+# Model constitution for unincorporated UK charities that are member associations
 Having recently needed to update the [Camberley Finnish School's](http://www.suomikoulu.org) constitution, I discovered whilst the UK's [Charity Commission](https://www.gov.uk/government/organisations/charity-commission) provides [model constitutions](https://www.gov.uk/government/publications/setting-up-a-charity-model-governing-documents) for [unincorporated charities that are member associations](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/586359/GD3.pdf), it only does so in PDF format, a [copy](resources/docs/GD3.pdf) of the PDF is mirrored within this repository.
 In order to draft the charity's own constitution, I recreated the model constitution in [Markdown](https://en.m.wikipedia.org/wiki/Markdown) to have it in an easily editable format. To save others the time required to recreate the document from scratch, I am making it available here.
 
